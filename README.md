@@ -27,14 +27,6 @@ Built with:
 
 ---
 
-## 🎥 Demo
-
-![Demo GIF](screenshots/demo.gif)
-
-> Watch files get sorted instantly as they appear in your Downloads folder.
-
----
-
 ## 🛠️ Installation
 
 ### Prerequisites

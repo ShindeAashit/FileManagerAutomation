@@ -37,7 +37,7 @@ Built with:
 ```bash
 pip install watchdog
 Clone the Repository
-git clone https://github.com/yourusername/file-management-automation.git
+git clone https://github.com/ShindeAashit/file-management-automation.git
 cd file-management-automation
 ▶️ Usage
 Open file_mover.py and update the following paths:

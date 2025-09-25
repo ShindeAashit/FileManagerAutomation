@@ -40,7 +40,7 @@ Clone the Repository
 git clone https://github.com/ShindeAashit/file-management-automation.git
 cd file-management-automation
 ▶️ Usage
-Open file_mover.py and update the following paths:
+Open file_management.py and update the following paths:
 
 SOURCE_DIR = r"C:\Users\YourName\Downloads"
 DEST_DIRS = {
@@ -50,7 +50,7 @@ DEST_DIRS = {
 }
 Run the script:
 
-python file_mover.py
+python file_management.py
 Watch your files get sorted automatically!
 
 
